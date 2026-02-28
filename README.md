@@ -1,3 +1,6 @@
+# smart-error-tracker
+Simple error tracking web app built with Python Flask
+
 # Smart Error Tracker
 
 A simple web application that collects and tracks application errors.
